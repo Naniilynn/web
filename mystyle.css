@@ -1,0 +1,15 @@
+body {
+/* text*/
+  font-family: arial;
+  font-size : 18px;
+  font-weight :18;
+  color : pink;
+}
+
+#div1{
+
+}
+
+#mypic {
+  transform: rotate(90deg);
+}
